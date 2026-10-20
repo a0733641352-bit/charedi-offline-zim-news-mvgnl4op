@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">חדשות אופליין ZIM</string>
+    <string name="subtitle">קריאת ערוצי חדשות ומבזקים ללא אינטרנט</string>
+    <string name="tab_packages">מהדורות ZIM</string>
+    <string name="tab_builder">אריזת חבילה</string>
+    <string name="tab_articles">עיון בכתבות</string>
+    <string name="btn_instant_today">הורד מהדורת יום מוכנה (ZIM)</string>
+    <string name="btn_custom_pack">צור חבילה מותאמת אישית</string>
+    <string name="include_videos">כלול סרטוני וידאו (קובץ כבד יותר)</string>
+    <string name="text_and_images_only">טקסט ותמונות בלבד (מהיר וקומפקטי)</string>
+    <string name="offline_reader_title">קורא ZIM מובנה</string>
+    <string name="back_to_list">חזרה</string>
+</resources>
